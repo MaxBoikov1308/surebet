@@ -9,7 +9,7 @@ from dct import read_and_parse_file
 from constants import *
 
 # Настройки
-KEY_VALUE = 5
+KEY_VALUE = 3
 USER_IDS = ID_SET
 # USER_IDS = ID_SET_TEST
 BOT_TOKEN = TOKEN
@@ -84,11 +84,13 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
 def value_checker():
     """Функция для проверки значения в отдельном потоке"""
+    prev_values = []
     while True:
         values_list = is_bigger(get_current_value())
         current_value = values_list[0]
         
-        if len(values_list) > 0:
+        if len(values_list) > 0 and values_list != prev_values:
+            prev_values = values_list
             import asyncio
             application = Application.builder().token(BOT_TOKEN).build()
             
