@@ -23,9 +23,8 @@ def profit(update=False) -> list:
 
     if 'data-profit' in response:
         import re
-        profits = re.findall(r'data-profit="([\d.]+)"', response)
-        print(profits[::2])
-    return float(profits[0])
+        profits = re.findall(r'data-profit="([\d.]+)"', response)[::2]
+    return [float(profit) for profit in profits]
 
 def calculate_stakes(k1: float, k2: float, summa: float = 10000) -> tuple:
     stake1 = 100 / (1 + k1 / k2)

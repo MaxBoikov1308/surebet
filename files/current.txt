@@ -1,0 +1,161 @@
+<tbody class="surebet_record" id="surebet_record__QzuZPszDmw" data-id="_QzuZPszDmw" data-product-model="surebet" data-signature="685e15c07aa25ff128396e32a16b77be" data-formula="bookformula1" data-created-at="1761494358" data-age="2 ч" data-age-tooltip="Возраст вилки: 2 часа" data-start-at="1761508800" data-profit="26.79" data-roi="58679.34" data-group-size="6">  <tr>
+    <td rowspan="3" class="info_td" data-bs-toggle="tooltip" title=""></td>
+    <td rowspan="3" class="profit-box">      <span class="profit ps-2 cursor-help" data-profit="26.7942" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" data-bs-original-title="ROI 58k%">26.8%</span>
+      <br>
+
+      <span class="age ps-2 cursor-help" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" data-bs-original-title="Возраст вилки: 2 часа">2 ч</span>
+      <div class="btn-group">
+        <form target="_blank" rel="noopener" class="button_to" method="get" action="/calculator/show/_QzuZPszDmw?model=surebet"><button data-popup="{&quot;calculator&quot;:true}" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" class="btn-site px-2 calculator_link" type="submit" aria-label="Калькулятор для вилки" data-bs-original-title="Калькулятор для вилки"><input type="hidden" name="model" id="model" value="surebet" autocomplete="off"><i class="fa-calculator fa"></i></button></form>
+        <div>
+            <div class="btn-group drop-trash"><button name="button" type="submit" class="px-1 btn-site" data-bs-toggle="dropdown"><i class="fa-trash-alt fa"></i></button><div class="dropdown-menu hidden-records-menu available"><h6 class="dropdown-header">Скрыть</h6><form class="button_to" method="post" action="/hiddes?comb_id=_QzuZPszDmw&amp;model=surebet&amp;product=surebets" data-remote="true"><button class="dropdown-item" type="submit">Только эту вилку</button><input type="hidden" name="authenticity_token" value="eKGCgRsVE__IL0raFuHEPhtXdAniQRDAnLcp6fC7vs740TUUC1Czqw0rN5sPUjX3-FffqL02kmPW6Onv431UHA" autocomplete="off"></form><form class="button_to" method="post" action="/hiddes?comb_id=_QzuZPszDmw&amp;model=surebet&amp;product=surebets&amp;synonym_id=-97219063" data-remote="true"><button class="dropdown-item" type="submit">Событие целиком</button><input type="hidden" name="authenticity_token" value="eKGCgRsVE__IL0raFuHEPhtXdAniQRDAnLcp6fC7vs740TUUC1Czqw0rN5sPUjX3-FffqL02kmPW6Onv431UHA" autocomplete="off"></form><form class="button_to" method="post" action="/hiddes?event_id=FxQM_Q&amp;model=surebet&amp;product=surebets" data-remote="true"><button class="dropdown-item" type="submit">Событие Marathon</button><input type="hidden" name="authenticity_token" value="eKGCgRsVE__IL0raFuHEPhtXdAniQRDAnLcp6fC7vs740TUUC1Czqw0rN5sPUjX3-FffqL02kmPW6Onv431UHA" autocomplete="off"></form><form class="button_to" method="post" action="/hiddes?event_id=bOIw-w&amp;model=surebet&amp;product=surebets" data-remote="true"><button class="dropdown-item" type="submit">Событие Olimp</button><input type="hidden" name="authenticity_token" value="eKGCgRsVE__IL0raFuHEPhtXdAniQRDAnLcp6fC7vs740TUUC1Czqw0rN5sPUjX3-FffqL02kmPW6Onv431UHA" autocomplete="off"></form><form class="button_to" method="post" action="/hiddes?model=odd&amp;odd_id=ZO4M_Q&amp;product=surebets" data-remote="true"><button class="dropdown-item" type="submit">Ставку Marathon: Тб(2.5)</button><input type="hidden" name="authenticity_token" value="eKGCgRsVE__IL0raFuHEPhtXdAniQRDAnLcp6fC7vs740TUUC1Czqw0rN5sPUjX3-FffqL02kmPW6Onv431UHA" autocomplete="off"></form><form class="button_to" method="post" action="/hiddes?model=odd&amp;odd_id=bA4z-w&amp;product=surebets" data-remote="true"><button class="dropdown-item" type="submit">Ставку Olimp: Тм(3.5)</button><input type="hidden" name="authenticity_token" value="eKGCgRsVE__IL0raFuHEPhtXdAniQRDAnLcp6fC7vs740TUUC1Czqw0rN5sPUjX3-FffqL02kmPW6Onv431UHA" autocomplete="off"></form></div><div class="dropdown-menu hidden-records-menu"><h6 class="dropdown-header">Скрыть</h6><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Только эту вилку</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Событие целиком</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Событие Marathon</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Событие Olimp</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Ставку Marathon: Тб(2.5)</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Ставку Olimp: Тм(3.5)</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span></div></div>        </div>
+
+        <div class="btn-group drop-report"><button name="button" type="submit" class="px-0 btn-site" data-bs-toggle="dropdown" data-bs-auto-close="outside"><span class="px-2" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" aria-label="Сообщить об ошибке" data-bs-original-title="Сообщить об ошибке"><i class="fa-ellipsis-v fa"></i></span></button><div class="dropdown-menu options-menu available" data-comb-json="{&quot;prongs&quot;:[&quot;{\&quot;id\&quot;:-49484188,\&quot;similar_size\&quot;:3,\&quot;group_size\&quot;:6,\&quot;gen_surebets\&quot;:153,\&quot;tournament\&quot;:\&quot;Valorant. Challengers Ascension. Americas League. Плей-офф. Матч из 3-х карт\&quot;,\&quot;teams\&quot;:[\&quot;ENVY\&quot;,\&quot;Team SoloMid\&quot;],\&quot;initial_value\&quot;:{\&quot;datetime\&quot;:\&quot;2025-10-26T15:59:11\&quot;,\&quot;value\&quot;:1.8496},\&quot;value_history\&quot;:[{\&quot;datetime\&quot;:\&quot;2025-10-26T18:02:52\&quot;,\&quot;value\&quot;:1.85}],\&quot;overvalue\&quot;:0.925,\&quot;probability\&quot;:0.5,\&quot;value\&quot;:1.85,\&quot;scan_time\&quot;:1761502581000,\&quot;unit_scan_time\&quot;:1761502581000,\&quot;bk_probability\&quot;:0.5,\&quot;bk_margin\&quot;:0.925,\&quot;commission\&quot;:0,\&quot;source\&quot;:\&quot;1hy0Ht0C7eAIGVVX3_Hxeg\&quot;,\&quot;bk\&quot;:\&quot;marathonbet\&quot;,\&quot;event_id\&quot;:-49540073,\&quot;sport_id\&quot;:35,\&quot;tournament_id\&quot;:3285,\&quot;time\&quot;:\&quot;2025-10-26T20:00:00\&quot;,\&quot;bookie_nav\&quot;:{\&quot;direct\&quot;:true,\&quot;links\&quot;:[{\&quot;name\&quot;:\&quot;main\&quot;,\&quot;link\&quot;:{\&quot;method\&quot;:\&quot;GET\&quot;,\&quot;url\&quot;:\&quot;https://www.marathonbet.com\&quot;}}],\&quot;markers\&quot;:{\&quot;eventId\&quot;:\&quot;25191945\&quot;,\&quot;id\&quot;:-49484188,\&quot;inValue\&quot;:1.85,\&quot;bk\&quot;:\&quot;marathonbet\&quot;,\&quot;externalId\&quot;:\&quot;-227502412-238135573374\&quot;}},\&quot;type\&quot;:{\&quot;condition\&quot;:\&quot;2.5\&quot;,\&quot;game\&quot;:\&quot;regular\&quot;,\&quot;base\&quot;:\&quot;overall\&quot;,\&quot;variety\&quot;:\&quot;map\&quot;,\&quot;period\&quot;:\&quot;regularTime\&quot;,\&quot;type\&quot;:\&quot;over\&quot;},\&quot;tr_terse\&quot;:\&quot;Тб(2.5)\&quot;,\&quot;tr_expanded\&quot;:\&quot;Тотал больше 2.5 - Игровая карта\&quot;,\&quot;preferred_nav\&quot;:\&quot;ljhTc7ETLA8E/NZvcXf+kplgZNRUhlPVxDUvJBzLUDwcGr97w9oDdUO2PLiH\\nyRvNIZyNpi3NNaYzOtBdgY+Zp5f/6A/SwSVs7qlafnbkBvFV243WzDMXSB9Q\\n7tu9vambBLU2kgXbtZbwvdox79sN0v57ZHNm6ZAdTlfom7CkhrXOa/ODatzd\\ngFmgdoxCovQdwqPZk7MXxArPIUbTO8YJ+uvJz7MjTpIcHtqFHmdSaJvsRWUx\\nud743FgywxQbvk520qLM+NN/vVbCKR6vFFYt7sL8B4B0iWi4JykfB6WVJNYm\\nTVh5+jnY3DxRRjFbP9pLFAoxiHs9WfwbvMqxFbjogumyRJFr8F5cw9T2LvBY\\nYG70lGZM6oTE54no+9LnZTX8SCnTuPPwatd/5UR2wyPirodxGQrJGt9xIy4i\\n4EsJJRzVwthOluxqab+6m6eaFrvJJIQW+/l2w+FzF+ROGw5+6g==\&quot;,\&quot;generative\&quot;:3}&quot;,&quot;{\&quot;id\&quot;:-80540052,\&quot;similar_size\&quot;:58,\&quot;group_size\&quot;:6,\&quot;gen_surebets\&quot;:16,\&quot;tournament\&quot;:\&quot;Valorant. Champions Tour Ascension Americas\&quot;,\&quot;teams\&quot;:[\&quot;EnVy\&quot;,\&quot;TSM\&quot;],\&quot;initial_value\&quot;:{\&quot;datetime\&quot;:\&quot;2025-10-26T06:51:10\&quot;,\&quot;value\&quot;:3.1504},\&quot;value_history\&quot;:[{\&quot;datetime\&quot;:\&quot;2025-10-26T17:39:27\&quot;,\&quot;value\&quot;:4.03},{\&quot;datetime\&quot;:\&quot;2025-10-26T17:38:06\&quot;,\&quot;value\&quot;:null}],\&quot;overvalue\&quot;:1.0354,\&quot;probability\&quot;:0.2569,\&quot;value\&quot;:4.03,\&quot;scan_time\&quot;:1761502412000,\&quot;unit_scan_time\&quot;:1761502412000,\&quot;bk_probability\&quot;:0.2003,\&quot;bk_margin\&quot;:0.9187,\&quot;commission\&quot;:0,\&quot;source\&quot;:\&quot;uVWKsTlhz1UqXf2Av244pQ\&quot;,\&quot;bk\&quot;:\&quot;olimp\&quot;,\&quot;event_id\&quot;:-80682388,\&quot;sport_id\&quot;:35,\&quot;tournament_id\&quot;:3285,\&quot;time\&quot;:\&quot;2025-10-26T20:00:00\&quot;,\&quot;bookie_nav\&quot;:{\&quot;direct\&quot;:true,\&quot;links\&quot;:[{\&quot;name\&quot;:\&quot;main\&quot;,\&quot;link\&quot;:{\&quot;method\&quot;:\&quot;GET\&quot;,\&quot;url\&quot;:\&quot;https://33olimp.com/betting\&quot;}}],\&quot;markers\&quot;:{\&quot;eventId\&quot;:\&quot;83415684\&quot;,\&quot;id\&quot;:-80540052,\&quot;inValue\&quot;:4.03,\&quot;bk\&quot;:\&quot;olimp\&quot;,\&quot;dataLegacy\&quot;:\&quot;idari_1c\&quot;,\&quot;betType\&quot;:\&quot;Тотал (3.5) мен - \&quot;,\&quot;twinsData\&quot;:\&quot;si:112~ci:8347675\&quot;}},\&quot;type\&quot;:{\&quot;condition\&quot;:\&quot;3.5\&quot;,\&quot;game\&quot;:\&quot;regular\&quot;,\&quot;base\&quot;:\&quot;overall\&quot;,\&quot;variety\&quot;:\&quot;map\&quot;,\&quot;period\&quot;:\&quot;regularTime\&quot;,\&quot;type\&quot;:\&quot;under\&quot;},\&quot;tr_terse\&quot;:\&quot;Тм(3.5)\&quot;,\&quot;tr_expanded\&quot;:\&quot;Тотал меньше 3.5 - Игровая карта\&quot;,\&quot;preferred_nav\&quot;:\&quot;ljhTc7ETLA8E/NZvcXf+kplgZNRUhlPVxDUvJBzLUDwcGr97w9oDdUO2PLiH\\nyRvNIZyNpi3NNaYzOtBdgY+Zp1b0RsRDAL5W7W9yuaiJF3AJFRNvTMTX6SnX\\nz+NlqT5Pl5eGJQgsx+/ukLDCF04lUa2FXGvpUiZ0JPBFsdZX5TQgO1RxXV2P\\nUG4JuMyZmuVzQqYNIgFVZlenKFoZCvpoj5fMOJzTlp5MJUq83XfCDZiBat/j\\neO8DpnjaFxMBNwsiKKl3HiTiEz4R5M4Kny35lA62Xug5CuIJafCStjbMz0IP\\nyiVxvlI+XjZDeTfSn9rLZ0Ic2roOXsg9jxgbzw9a13Rn1W2qR6bvGdLE6zeA\\nABMwYQme6A5yjxVhSI6bXbdKRmeoCVpEl8Et7nOKMcDGkLjEg+KZZxJvfjdj\\nPVV9+f9kpMEFdHpI6iz7hdKlLAU+Gx/iggefFMS5maL3iST5Gg==\&quot;,\&quot;generative\&quot;:2}&quot;],&quot;profit&quot;:26.7942,&quot;roi&quot;:58679.343}"><form class="button_to" method="post" action="/hide_issue?id=_QzuZPszDmw&amp;model=surebet" data-remote="true"><input class="dropdown-item" type="submit" value="Скрыть эту вилку"><input type="hidden" name="authenticity_token" value="eKGCgRsVE__IL0raFuHEPhtXdAniQRDAnLcp6fC7vs740TUUC1Czqw0rN5sPUjX3-FffqL02kmPW6Onv431UHA" autocomplete="off"></form><div class="dropdown-divider"></div><h6 class="dropdown-header">Жалобы</h6><button name="button" type="button" class="dropdown-item complaint" data-disable-with="Разные команды &lt;i class=&quot;fa-spinner fa-spin ms-3 fa&quot;&gt;&lt;/i&gt;" data-comment-key="4" data-star-reason="error" data-token="false">Разные команды</button><button name="button" type="button" class="dropdown-item complaint" data-disable-with="Событие не найдено &lt;i class=&quot;fa-spinner fa-spin ms-3 fa&quot;&gt;&lt;/i&gt;" data-comment-key="1" data-star-reason="error" data-token="false">Событие не найдено</button><button name="button" type="button" class="dropdown-item complaint" data-disable-with="Коэффициенты отличаются &lt;i class=&quot;fa-spinner fa-spin ms-3 fa&quot;&gt;&lt;/i&gt;" data-comment-key="2" data-star-reason="error" data-token="false">Коэффициенты отличаются</button><button name="button" type="button" class="dropdown-item complaint" data-disable-with="Неправильные рынки &lt;i class=&quot;fa-spinner fa-spin ms-3 fa&quot;&gt;&lt;/i&gt;" data-comment-key="3" data-star-reason="error" data-token="false">Неправильные рынки</button><button name="button" type="submit" class="dropdown-item report-other-option" title="Отправить ваш комментарий" data-bs-toggle="modal" data-bs-target="#user-report-modal">Другое</button></div><div class="dropdown-menu options-menu" data-comb-json="{&quot;prongs&quot;:[&quot;{\&quot;id\&quot;:-49484188,\&quot;similar_size\&quot;:3,\&quot;group_size\&quot;:6,\&quot;gen_surebets\&quot;:153,\&quot;tournament\&quot;:\&quot;Valorant. Challengers Ascension. Americas League. Плей-офф. Матч из 3-х карт\&quot;,\&quot;teams\&quot;:[\&quot;ENVY\&quot;,\&quot;Team SoloMid\&quot;],\&quot;initial_value\&quot;:{\&quot;datetime\&quot;:\&quot;2025-10-26T15:59:11\&quot;,\&quot;value\&quot;:1.8496},\&quot;value_history\&quot;:[{\&quot;datetime\&quot;:\&quot;2025-10-26T18:02:52\&quot;,\&quot;value\&quot;:1.85}],\&quot;overvalue\&quot;:0.925,\&quot;probability\&quot;:0.5,\&quot;value\&quot;:1.85,\&quot;scan_time\&quot;:1761502581000,\&quot;unit_scan_time\&quot;:1761502581000,\&quot;bk_probability\&quot;:0.5,\&quot;bk_margin\&quot;:0.925,\&quot;commission\&quot;:0,\&quot;source\&quot;:\&quot;1hy0Ht0C7eAIGVVX3_Hxeg\&quot;,\&quot;bk\&quot;:\&quot;marathonbet\&quot;,\&quot;event_id\&quot;:-49540073,\&quot;sport_id\&quot;:35,\&quot;tournament_id\&quot;:3285,\&quot;time\&quot;:\&quot;2025-10-26T20:00:00\&quot;,\&quot;bookie_nav\&quot;:{\&quot;direct\&quot;:true,\&quot;links\&quot;:[{\&quot;name\&quot;:\&quot;main\&quot;,\&quot;link\&quot;:{\&quot;method\&quot;:\&quot;GET\&quot;,\&quot;url\&quot;:\&quot;https://www.marathonbet.com\&quot;}}],\&quot;markers\&quot;:{\&quot;eventId\&quot;:\&quot;25191945\&quot;,\&quot;id\&quot;:-49484188,\&quot;inValue\&quot;:1.85,\&quot;bk\&quot;:\&quot;marathonbet\&quot;,\&quot;externalId\&quot;:\&quot;-227502412-238135573374\&quot;}},\&quot;type\&quot;:{\&quot;condition\&quot;:\&quot;2.5\&quot;,\&quot;game\&quot;:\&quot;regular\&quot;,\&quot;base\&quot;:\&quot;overall\&quot;,\&quot;variety\&quot;:\&quot;map\&quot;,\&quot;period\&quot;:\&quot;regularTime\&quot;,\&quot;type\&quot;:\&quot;over\&quot;},\&quot;tr_terse\&quot;:\&quot;Тб(2.5)\&quot;,\&quot;tr_expanded\&quot;:\&quot;Тотал больше 2.5 - Игровая карта\&quot;,\&quot;preferred_nav\&quot;:\&quot;ljhTc7ETLA8E/NZvcXf+kplgZNRUhlPVxDUvJBzLUDwcGr97w9oDdUO2PLiH\\nyRvNIZyNpi3NNaYzOtBdgY+Zp5f/6A/SwSVs7qlafnbkBvFV243WzDMXSB9Q\\n7tu9vambBLU2kgXbtZbwvdox79sN0v57ZHNm6ZAdTlfom7CkhrXOa/ODatzd\\ngFmgdoxCovQdwqPZk7MXxArPIUbTO8YJ+uvJz7MjTpIcHtqFHmdSaJvsRWUx\\nud743FgywxQbvk520qLM+NN/vVbCKR6vFFYt7sL8B4B0iWi4JykfB6WVJNYm\\nTVh5+jnY3DxRRjFbP9pLFAoxiHs9WfwbvMqxFbjogumyRJFr8F5cw9T2LvBY\\nYG70lGZM6oTE54no+9LnZTX8SCnTuPPwatd/5UR2wyPirodxGQrJGt9xIy4i\\n4EsJJRzVwthOluxqab+6m6eaFrvJJIQW+/l2w+FzF+ROGw5+6g==\&quot;,\&quot;generative\&quot;:3}&quot;,&quot;{\&quot;id\&quot;:-80540052,\&quot;similar_size\&quot;:58,\&quot;group_size\&quot;:6,\&quot;gen_surebets\&quot;:16,\&quot;tournament\&quot;:\&quot;Valorant. Champions Tour Ascension Americas\&quot;,\&quot;teams\&quot;:[\&quot;EnVy\&quot;,\&quot;TSM\&quot;],\&quot;initial_value\&quot;:{\&quot;datetime\&quot;:\&quot;2025-10-26T06:51:10\&quot;,\&quot;value\&quot;:3.1504},\&quot;value_history\&quot;:[{\&quot;datetime\&quot;:\&quot;2025-10-26T17:39:27\&quot;,\&quot;value\&quot;:4.03},{\&quot;datetime\&quot;:\&quot;2025-10-26T17:38:06\&quot;,\&quot;value\&quot;:null}],\&quot;overvalue\&quot;:1.0354,\&quot;probability\&quot;:0.2569,\&quot;value\&quot;:4.03,\&quot;scan_time\&quot;:1761502412000,\&quot;unit_scan_time\&quot;:1761502412000,\&quot;bk_probability\&quot;:0.2003,\&quot;bk_margin\&quot;:0.9187,\&quot;commission\&quot;:0,\&quot;source\&quot;:\&quot;uVWKsTlhz1UqXf2Av244pQ\&quot;,\&quot;bk\&quot;:\&quot;olimp\&quot;,\&quot;event_id\&quot;:-80682388,\&quot;sport_id\&quot;:35,\&quot;tournament_id\&quot;:3285,\&quot;time\&quot;:\&quot;2025-10-26T20:00:00\&quot;,\&quot;bookie_nav\&quot;:{\&quot;direct\&quot;:true,\&quot;links\&quot;:[{\&quot;name\&quot;:\&quot;main\&quot;,\&quot;link\&quot;:{\&quot;method\&quot;:\&quot;GET\&quot;,\&quot;url\&quot;:\&quot;https://33olimp.com/betting\&quot;}}],\&quot;markers\&quot;:{\&quot;eventId\&quot;:\&quot;83415684\&quot;,\&quot;id\&quot;:-80540052,\&quot;inValue\&quot;:4.03,\&quot;bk\&quot;:\&quot;olimp\&quot;,\&quot;dataLegacy\&quot;:\&quot;idari_1c\&quot;,\&quot;betType\&quot;:\&quot;Тотал (3.5) мен - \&quot;,\&quot;twinsData\&quot;:\&quot;si:112~ci:8347675\&quot;}},\&quot;type\&quot;:{\&quot;condition\&quot;:\&quot;3.5\&quot;,\&quot;game\&quot;:\&quot;regular\&quot;,\&quot;base\&quot;:\&quot;overall\&quot;,\&quot;variety\&quot;:\&quot;map\&quot;,\&quot;period\&quot;:\&quot;regularTime\&quot;,\&quot;type\&quot;:\&quot;under\&quot;},\&quot;tr_terse\&quot;:\&quot;Тм(3.5)\&quot;,\&quot;tr_expanded\&quot;:\&quot;Тотал меньше 3.5 - Игровая карта\&quot;,\&quot;preferred_nav\&quot;:\&quot;ljhTc7ETLA8E/NZvcXf+kplgZNRUhlPVxDUvJBzLUDwcGr97w9oDdUO2PLiH\\nyRvNIZyNpi3NNaYzOtBdgY+Zp1b0RsRDAL5W7W9yuaiJF3AJFRNvTMTX6SnX\\nz+NlqT5Pl5eGJQgsx+/ukLDCF04lUa2FXGvpUiZ0JPBFsdZX5TQgO1RxXV2P\\nUG4JuMyZmuVzQqYNIgFVZlenKFoZCvpoj5fMOJzTlp5MJUq83XfCDZiBat/j\\neO8DpnjaFxMBNwsiKKl3HiTiEz4R5M4Kny35lA62Xug5CuIJafCStjbMz0IP\\nyiVxvlI+XjZDeTfSn9rLZ0Ic2roOXsg9jxgbzw9a13Rn1W2qR6bvGdLE6zeA\\nABMwYQme6A5yjxVhSI6bXbdKRmeoCVpEl8Et7nOKMcDGkLjEg+KZZxJvfjdj\\nPVV9+f9kpMEFdHpI6iz7hdKlLAU+Gx/iggefFMS5maL3iST5Gg==\&quot;,\&quot;generative\&quot;:2}&quot;],&quot;profit&quot;:26.7942,&quot;roi&quot;:58679.343}"><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Скрыть эту вилку</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><div class="dropdown-divider"></div><h6 class="dropdown-header">Жалобы</h6><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Разные команды</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Событие не найдено</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Коэффициенты отличаются</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Неправильные рынки</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span><span data-bs-toggle="popover" data-bs-content="&lt;div&gt;
+  &lt;h6 class=&quot;m-0&quot;&gt;
+    Достигнут дневной лимит. Получите больше с &lt;a href=&quot;/plan/edit&quot;&gt;Профессиональный+&lt;/a&gt;
+  &lt;/h6&gt;
+&lt;/div&gt;
+" data-bs-html="true" data-bs-trigger="focus" data-bs-placement="right" data-bs-custom-class="feature-popup" tabindex="0"><button name="button" type="submit" class="dropdown-item d-flex align-items-center justify-content-between" onclick="event.stopPropagation()"><span>Другое</span><span class="ms-3"><i class="fa-lock fa-2xs fa-solid"></i></span></button></span></div></div>      </div>
+
+      <br>
+
+      
+</td>
+
+    <td class="booker">
+  <a target="_blank" rel="noopener" href="/nav/bookie/marathonbet">Marathon</a>
+
+  <br>
+
+  <span class="minor">
+    Valorant
+  </span>
+</td>
+
+<td class="time">
+  <abbr class="cursor-help" data-utc="1761508800000" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" data-bs-original-title="через 2 часа">26/10<br>23:00</abbr>
+</td>
+
+<td class="event event-FxQM_Q">
+  <a target="_blank" href="/nav/surebet/prong/0/_QzuZPszDmw/if?odd_format=eu&amp;time_zone=Europe%2FMoscow">ENVY – Team SoloMid</a><br><span class="minor">Valorant. Challengers Ascension. Americas League. Плей-офф. Матч из 3-х карт </span>
+</td>
+
+<td class="coeff">
+  <abbr data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" class="cursor-help" data-bs-original-title="Тотал больше 2.5 - Игровая карта">Тб(2.5)</abbr>
+</td>
+
+<td class="value odd_record_ZO4M_Q">
+  <div><div class="d-inline-flex align-items-baseline"><div class="me-1"><span><a target="_blank" class="value_link" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" rel="noopener" href="/nav/surebet/prong/0/_QzuZPszDmw/if?odd_format=eu&amp;time_zone=Europe%2FMoscow&amp;type=prong" data-bs-original-title="Перейти к событию">1.85</a></span></div><div class="odds-difference-icon-container mx-1"><div class="invisible"><i class="fa-circle-small fa-xs text-secondary fa-solid"></i></div></div></div></div>
+
+  
+</td>
+
+<td class="text-center">
+  <div class="ms-1">
+    <span class="generative" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" data-bs-original-title="Инициатор вилки. Всего участвует в 153 вилках.">●</span>
+  </div>
+</td>
+
+      <td class="multi_links_td" rowspan="3" title="Открыть все ставки"><button name="button" type="button" class="m-0 px-1 py-3 mass-navigation btn-site multi_links_button"><i class="fa-chevron-right fa"></i></button></td>
+
+    </tr>
+      <tr>
+
+    <td class="booker">
+  <a target="_blank" rel="noopener" href="/nav/bookie/olimp">Olimp</a>
+
+  <br>
+
+  <span class="minor">
+    Valorant
+  </span>
+</td>
+
+<td class="time">
+  <abbr class="cursor-help" data-utc="1761508800000" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" data-bs-original-title="через 2 часа">26/10<br>23:00</abbr>
+</td>
+
+<td class="event event-bOIw-w">
+  <a target="_blank" href="/nav/surebet/prong/1/_QzuZPszDmw/if?odd_format=eu&amp;time_zone=Europe%2FMoscow">EnVy – TSM</a><br><span class="minor">Valorant. Champions Tour Ascension Americas </span>
+</td>
+
+<td class="coeff">
+  <abbr data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" class="cursor-help" data-bs-original-title="Тотал меньше 3.5 - Игровая карта">Тм(3.5)</abbr>
+</td>
+
+<td class="value odd_record_bA4z-w">
+  <div><div class="d-inline-flex align-items-baseline"><div class="me-1"><span><a target="_blank" class="value_link" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" rel="noopener" href="/nav/surebet/prong/1/_QzuZPszDmw/if?odd_format=eu&amp;time_zone=Europe%2FMoscow&amp;type=prong" data-bs-original-title="Перейти к событию">4.03</a></span></div><div class="odds-difference-icon-container mx-1"><div class="invisible"><i class="fa-circle-small fa-xs text-secondary fa-solid"></i></div></div></div></div>
+
+  
+</td>
+
+<td class="text-center">
+  <div class="ms-1">
+    <span class="generative" data-bs-toggle="tooltip" data-bs-delay="{&quot;show&quot;:150,&quot;hide&quot;:0}" data-bs-html="false" data-bs-trigger="hover" data-bs-original-title="Возможный инициатор вилки. Всего участвует в 16 вилках.">○</span>
+  </div>
+</td>
+
+
+    </tr>
+
+  <tr>
+    <td colspan="6" class="extra">
+      <a class="group-link" href="/surebets/group?group_title=ENVY+%E2%80%93+Team+SoloMid&amp;like=ZO4M_Q">+ ещё 5 вилок для этого события</a>
+    </td>
+  </tr>
+</tbody>
+

@@ -12,6 +12,7 @@ python -m venv ./venv
 ```
 2) Set your bot token
 ```python
+USER_IDS = set()
 BOT_TOKEN = "YOUR_BOT_TOKEN"
 ```
 3) Install requirements
