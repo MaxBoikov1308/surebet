@@ -27,6 +27,12 @@ def profit(update=False) -> list:
         print(profits[::2])
     return float(profits[0])
 
+def calculate_stakes(k1: float, k2: float, summa: float = 10000) -> tuple:
+    stake1 = 100 / (1 + k1 / k2)
+    stake2 = 100 - stake1
+    return round(stake1, 2) * summa / 100, round(stake2, 2) * summa / 100
+
 
 if __name__ == '__main__':
-    profit(update=True)
+    # profit(update=True)
+    print(calculate_stakes(1.85, 3.4))

@@ -3,15 +3,16 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 import threading
 import time
-from files.get_profit import profit
-from files.find import save_bet
-from files.get_dict import read_and_parse_file
+from profit import profit, calculate_stakes
+from find import save_bet
+from dct import read_and_parse_file
+from constants import *
 
 # Настройки
-KEY_VALUE = 2
-USER_IDS = {}
-# USER_IDS = {}
-BOT_TOKEN = ""
+KEY_VALUE = 7
+# USER_IDS = ID_SET
+USER_IDS = ID_SET_TEST
+BOT_TOKEN = TOKEN
 
 def get_current_value() -> float:
     try:
@@ -65,6 +66,13 @@ def value_checker():
         
         time.sleep(60)  # Проверка каждую минуту
 
+async def calc_bet(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    try:
+        values = calculate_stakes(float(context.args[0]), float(context.args[1]), summa=float(context.args[2]))
+        await update.message.reply_text(f"Коэффициенты: {values[0]} - {values[1]}")
+    except Exception as e:
+        await update.message.reply_text(f"Введите корректные значения")
+
 def main():
     # Запускаем проверку в отдельном потоке
     checker_thread = threading.Thread(target=value_checker, daemon=True)
@@ -73,11 +81,11 @@ def main():
     # Создаем и запускаем бота
     application = Application.builder().token(BOT_TOKEN).build()
     application.add_handler(CommandHandler("start", start))
-    application.add_handler(CommandHandler("set_key", set_key))
+    application.add_handler(CommandHandler("set", set_key))
+    application.add_handler(CommandHandler("calc", calc_bet))
     
     print("Бот запущен...")
     application.run_polling()
 
 if __name__ == "__main__":
     main()
-
