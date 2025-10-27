@@ -9,7 +9,7 @@ from dct import read_and_parse_file
 from constants import *
 
 # Настройки
-KEY_VALUE = 3
+KEY_VALUE = 5
 USER_IDS = ID_SET
 # USER_IDS = ID_SET_TEST
 BOT_TOKEN = TOKEN
@@ -81,13 +81,31 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         text=f"Информация о вилке {fork_index + 1}:\n{fork_info}",
         reply_markup=original_reply_markup  # Сохраняем кнопки
     )
+
+async def refresh(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    values_list = is_bigger(get_current_value())
+        
+    if len(values_list) > 0:
+        # Создаем inline кнопки
+        keyboard = []
+        for i in range(len(values_list)):
+            # Нумерация с 1, соответствует 1 + индекс элемента
+            keyboard.append([InlineKeyboardButton(str(values_list[i]), callback_data=f"fork_{i}")])
+        
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        
+        message = f"Найдено {len(values_list)} вилок с доходом больше {KEY_VALUE}%. Максимальная - {values_list[0]}%"
+        
+        await update.message.reply_text(message, reply_markup=reply_markup)
+    else:
+        await update.message.reply_text(f"Найдено 0 вилок с доходом больше {KEY_VALUE}%.")
     
 def value_checker():
     """Функция для проверки значения в отдельном потоке"""
     prev_values = []
     while True:
         values_list = is_bigger(get_current_value())
-        current_value = values_list[0]
+        
         
         if len(values_list) > 0 and values_list != prev_values:
             prev_values = values_list
@@ -102,7 +120,7 @@ def value_checker():
             
             reply_markup = InlineKeyboardMarkup(keyboard)
             
-            message = f"Найдено {len(values_list)} вилок с доходом больше {KEY_VALUE}%. Максимальная - {current_value}%"
+            message = f"Найдено {len(values_list)} вилок с доходом больше {KEY_VALUE}%. Максимальная - {values_list[0]}%"
             
             # Передаем reply_markup в функцию рассылки
             asyncio.run(broadcast_to_all(message, application.bot, reply_markup))
@@ -121,6 +139,7 @@ def main():
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("set", set_key))
     application.add_handler(CommandHandler("calc", calc_bet))
+    application.add_handler(CommandHandler("refresh", refresh))
     application.add_handler(CallbackQueryHandler(button_handler))
     
     print("Бот запущен...")
